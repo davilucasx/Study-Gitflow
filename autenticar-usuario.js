@@ -1,2 +1,2 @@
-console.log("Usuario autenticado");
+console.log("Usuario desativado");
 console.log("resolvendo bug")
